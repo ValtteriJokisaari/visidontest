@@ -72,7 +72,8 @@ Result examples:
 ![lasi](https://user-images.githubusercontent.com/40422650/206731596-8d092758-9a65-4a62-8165-8eae0f9cf1cb.png)
 
 
-Quality might be suffering on higher res images because model was trained on 256x256. Could be improved by using different preprocessing settings to train at higher res.
+Quality might be suffering on higher res images because model was trained on 256x256. Could be improved by using different preprocessing settings to train at higher res. Training and testing can also be done on rectangular images. Requires specifying --preprocess and --crop_size. 
+[More info](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/docs/tips.md)
 
 
 ## Accuracy
