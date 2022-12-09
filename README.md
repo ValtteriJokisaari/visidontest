@@ -48,9 +48,27 @@ python test.py --dataroot mydata/AB/test --name visidonfinal --model test --netG
 ```
 Using --preprocess none to prevent final images from being cropped to 256x256 (resolution used to train the model)
 
-Processing took couple of minutes for 1207 images.
+Processing took a couple of minutes for 1207 images.
 
 Result examples:
 ![results](https://user-images.githubusercontent.com/40422650/206726092-f2aea02e-b270-475a-8cc0-c5f6d6f6ea5d.png)
+
+**Trying with my own images**
+
+1920x1920 picture as input:
+
+![juissi](https://user-images.githubusercontent.com/40422650/206731786-4a668089-dfa2-43f0-83d6-b92c07699ca4.png)
+
+Quality might be suffering because model was trained on 256x256. Could be improved by using different preprocessing settings to train at higher res.
+
+
+1024x1024 picture as input:
+
+![lasi](https://user-images.githubusercontent.com/40422650/206731596-8d092758-9a65-4a62-8165-8eae0f9cf1cb.png)
+
+
+
+
+## Accuracy
 
 
