@@ -73,7 +73,7 @@ Result examples:
 
 
 Quality might be suffering on higher res images because model was trained on 256x256. Could be improved by using different preprocessing settings to train at higher res. Training and testing can also be done on rectangular images. Requires specifying --preprocess and --crop_size. 
-[More info](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/docs/tips.md)
+*[More info on image sizes](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/docs/tips.md)*
 
 
 ## Accuracy
