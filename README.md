@@ -4,7 +4,7 @@ Using the PyTorch CycleGAN and pix2pix repo:
 https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 
 ## Why Pix2Pix?
-Allows for many possibilities.
+Allows for many possibilities. Automatically discovers even complex image translation patterns. Can also be used to generate more images in the future.
 
 ## Preparing data
 Started with seperating input and target images and placed them in a folder called mydata (./mydata). Input and target images must be the same size and name. Using [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) to remove "_target" and "_input" from the image filenames. Input to mydata/A/train and target to mydata/B/train. Pix2pix training required paired images so used the combine_A_and_B.py module in the datasets folder.
@@ -73,5 +73,5 @@ Quality might be suffering on higher res images because model was trained on 256
 ![image](https://user-images.githubusercontent.com/40422650/206737575-a0164836-7f0e-44ad-bc34-8d2ec48ee8a6.png)
 
 ## Accuracy
-
+Since there are a lot of ways to compare image similarities.
 
