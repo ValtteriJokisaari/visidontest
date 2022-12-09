@@ -80,10 +80,15 @@ Could have definitely had more detail if I trained in native resolution.
 Since there are a lot of debatable ways and metrics to compare image similarities I'll just show the results.
 
 First 5 images:
+
 ![image](https://user-images.githubusercontent.com/40422650/206806940-c6d05061-92fd-4f69-84ea-8882429bda08.png)
-![image](https://user-images.githubusercontent.com/40422650/206804341-3a042ff3-56d1-48e7-ba4f-d83ab79b94a3.png) 
+
+![image](https://user-images.githubusercontent.com/40422650/206808278-c4b47d1f-2622-4be5-a652-f2cbf1cf1a6b.png)
+
 ![image](https://user-images.githubusercontent.com/40422650/206804394-aa924fe9-b246-40b7-8cf4-a2d06283168f.png)
+
 ![image](https://user-images.githubusercontent.com/40422650/206804421-30a56fbd-7d7e-4e5b-9330-63db5950cd14.png)
+
 ![image](https://user-images.githubusercontent.com/40422650/206804438-ac159304-8fad-410a-a4ae-af6540a87fd2.png)
 
 
