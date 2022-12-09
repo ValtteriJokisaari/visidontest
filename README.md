@@ -44,7 +44,7 @@ B = target
 ![epoch200](https://user-images.githubusercontent.com/40422650/206721893-5a16678d-7ee4-44de-a6e3-41e14c931722.png)
 
 
-**Training took around 3-4 hours with a 6 year old GTX 1080. Speed could be much improved with higher batch count and more GPUs.**
+**Training took around 3-4 hours with a 6 year old GTX 1080. Speed could be much improved with higher batch count and more high VRAM GPUs.**
 
 ## Testing
 
