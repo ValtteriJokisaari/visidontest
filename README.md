@@ -22,7 +22,11 @@ Used train command:
 python train.py --dataroot mydata/AB --name visidonfinal --model pix2pix --direction AtoB
 ```
 
-Trained for 200 epochs.
+Trained for 200 epochs. Maybe too much. 
+L1 loss is the sum of all the absolute pixel differences between fake target and real target.
+
+![image](https://user-images.githubusercontent.com/40422650/206800508-a2f70201-c76c-4e89-925e-7d8efc9742cf.png)
+
 Results while training:
 
 A = input
@@ -70,8 +74,7 @@ Result examples:
 Quality might be suffering on higher res images because model was trained on 256x256. Could be improved by using different preprocessing settings to train at higher res.
 
 
-![image](https://user-images.githubusercontent.com/40422650/206737575-a0164836-7f0e-44ad-bc34-8d2ec48ee8a6.png)
-
 ## Accuracy
-Since there are a lot of ways to compare image similarities.
+Since there are a lot of debatable ways and metrics to compare image similarities I'll just show the results.
+
 
