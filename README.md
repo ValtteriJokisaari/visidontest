@@ -76,10 +76,11 @@ Quality might be suffering on higher res images because model was trained on 256
 
 
 ## Accuracy
+Could have definitely had more detail if I trained in native resolution. 
 Since there are a lot of debatable ways and metrics to compare image similarities I'll just show the results.
 
 First 5 images:
-
+![image](https://user-images.githubusercontent.com/40422650/206806940-c6d05061-92fd-4f69-84ea-8882429bda08.png)
 ![image](https://user-images.githubusercontent.com/40422650/206804341-3a042ff3-56d1-48e7-ba4f-d83ab79b94a3.png) 
 ![image](https://user-images.githubusercontent.com/40422650/206804394-aa924fe9-b246-40b7-8cf4-a2d06283168f.png)
 ![image](https://user-images.githubusercontent.com/40422650/206804421-30a56fbd-7d7e-4e5b-9330-63db5950cd14.png)
@@ -87,7 +88,7 @@ First 5 images:
 
 
 Rest on dropbox:
-
+[Visidonrar](https://www.dropbox.com/s/bpaj7qae2bf94ja/visidonimages.zip?dl=0)
 
 
 
