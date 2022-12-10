@@ -65,11 +65,12 @@ Result examples:
 
 1920x1920 picture as input:
 
-![juissi](https://user-images.githubusercontent.com/40422650/206731786-4a668089-dfa2-43f0-83d6-b92c07699ca4.png)
+![image](https://user-images.githubusercontent.com/40422650/206818059-20c3d6bd-6392-4f0c-b1a5-3450a289f323.png)
+
 
 1024x1024 picture as input:
 
-![lasi](https://user-images.githubusercontent.com/40422650/206731596-8d092758-9a65-4a62-8165-8eae0f9cf1cb.png)
+![image](https://user-images.githubusercontent.com/40422650/206817976-5297fe05-49c3-4829-8290-d7f9ec157f13.png)
 
 
 Quality might be suffering on higher res images because model was trained on 256x256. Could be improved by using different preprocessing settings to train at higher res. Training and testing can also be done on rectangular images. Requires specifying --preprocess and --crop_size. 
